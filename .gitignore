@@ -1,0 +1,13 @@
+# Arquivos gerados pelo .NET
+bin/
+obj/
+*.csproj.user
+
+# Arquivos de IDE
+.vscode/
+.idea/
+.vs/
+*.sln
+
+# Outros
+*.log
